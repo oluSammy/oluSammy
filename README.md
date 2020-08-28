@@ -30,7 +30,7 @@
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/react-redux.png?raw=true"
      alt="Markdown Monster icon" width="150" height="150"
-     style="margin-right: 10px;"
+     style="float: left; margin-right: 10px;"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/sass%20logo.png?raw=true"
