@@ -1,12 +1,12 @@
-### Hello Folks, i'm Samuel.  👋
+# Hello Folks, i'm Samuel.  👋
 
 ## I'm a frontEnd Developer
+
+---
+#### Technologies And Tools
 ---
 
-```
- Technologies And Tools
 
-```
 
 
 
