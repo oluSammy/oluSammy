@@ -2,16 +2,29 @@
 
 ## I'm a frontEnd Developer
 ---
-___
 
 ```
  Technologies And Tools
 
 ```
-<img src="./img/react-log.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
-/>
+
+<p align='center'>
+<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p
+
+![](./img/react-log.png =100x100)
+
+<a href="#"> 
+    <img src="./img/react-log.png"
+        alt="Markdown Monster icon"
+        style="float: left; margin-right: 10px; width: 15%"
+    />
+</a>
+
 <img src="./img/js.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; width: 15%"
@@ -48,7 +61,6 @@ ___
      style=" margin-right: 10px; width: 15%"
 />
 
----
 ___
 
 
