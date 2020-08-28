@@ -12,44 +12,44 @@
 
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/react-log.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250" 
+     style="float: left; margin-right: 10px;"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/js.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250" 
+     style="float: left; margin-right: 10px;"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/firebase%20logo.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250"
+     style="float: left; margin-right: 10px;"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/git%20logo-2.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250"
+     style="float: left; margin-right: 10px;"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/react-redux.png?raw=true"
-     alt="Markdown Monster icon"
-     style="margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250"
+     style="margin-right: 10px;"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/sass%20logo.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250"
+     style="float: left; margin-right: 10px;"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/vs%20code.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250"
+     style="float: left; margin-right: 10px;"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/css%20logo-2.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250"
+     style="float: left; margin-right: 10px;"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/html%20logo.png?raw=true"
-     alt="Markdown Monster icon"
-     style=" margin-right: 10px; width: 70px"
+     alt="Markdown Monster icon" width="250" height="250"
+     style=" margin-right: 10px;"
 />
 
 ___
