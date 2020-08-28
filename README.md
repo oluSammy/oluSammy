@@ -19,7 +19,7 @@
 ![](./img/react-log.png =100x100)
 
 <a href="#"> 
-    <img src="./img/react-log.png"
+    <img src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"
         alt="Markdown Monster icon"
         style="float: left; margin-right: 10px; width: 15%"
     />
