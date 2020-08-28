@@ -13,49 +13,49 @@
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/react-log.png?raw=true"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
+     style="float: left; margin-right: 10px; width: 100"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/js.png?raw=true"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
+     style="float: left; margin-right: 10px; width: 100"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/firebase%20logo.png?raw=true"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
+     style="float: left; margin-right: 10px; width: 100"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/git%20logo-2.png?raw=true"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
+     style="float: left; margin-right: 10px; width: 100"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/react-redux.png?raw=true"
      alt="Markdown Monster icon"
-     style="margin-right: 10px; width: 15%"
+     style="margin-right: 10px; width: 100"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/sass%20logo.png?raw=true"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
+     style="float: left; margin-right: 10px; width: 100"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/vs%20code.png?raw=true"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
+     style="float: left; margin-right: 10px; width: 100"
 />
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/css%20logo-2.png?raw=true"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 15%"
+     style="float: left; margin-right: 10px; width: 100"
 />
 
 <img src="https://github.com/oluSammy/oluSammy/blob/master/img/html%20logo.png?raw=true"
      alt="Markdown Monster icon"
-     style=" margin-right: 10px; width: 15%"
+     style=" margin-right: 10px; width: 100"
 />
 
 ___
 
 
-- 🔭 I’m currently working on react
+- 🔭 I’m currently working on a react 
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about React, Javascript, FrontEnd Development
 - 😄 Pronouns: He/Him
